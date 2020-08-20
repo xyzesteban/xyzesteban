@@ -1,7 +1,7 @@
 <!--
 **xyzes/xyzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![Header](/src/assets/header.gif)
+<img src="/src/assets/header.gif?raw=true">
 
 I am an undergraduate student at Northeastern University currently working towards a combined degree in <a href="https://www.khoury.northeastern.edu/program/bs-combined-major-for-computer-science-and-music-composition-and-technology/">Computer Science & Music Composition and Technology</a> from the Khoury College of Computer Sciences. I am passionate about software and web development and have been developing as a Build Studio Engineer for <a href="https://web.northeastern.edu/generate/">Northeastern Generate</a> since Fall 2019. I recently worked as a Special Projects Assistant intern with the <a href="https://www.hsph.harvard.edu/information-technology/">Department of Information Technology at Harvard School of Public Health</a>, where I received exposure to project management, user outreach, and UI/UX design.👨🏽‍💻
 
