@@ -18,27 +18,28 @@ I am an undergraduate student from <strong>Nuevo Laredo, Mexico</strong>, curren
   <tr>
     <td width="500" >
       <h4>HSPH A/V Inventory</h4>
-      <div width="500">A FileMaker database application to keep track of classroom & conference room equipment. Click <a href="https://youtu.be/N5kKAoLdKwo">here</a> for a demonstration.</div>
-      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/hsph-av.gif" width="500" /> 
+      <div width="500" height="300">A FileMaker database application to keep track of classroom & conference room equipment. Click <a href="https://youtu.be/N5kKAoLdKwo">here</a> for a demonstration.</div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/hsph-av.gif" width="500" /></div>
     </td>
     <td width="500" >
       <h4>Butter</h4>
-      <div width="500">An app to connect users with thoughtful & curated recommendations from locals. Click <a href="https://discoverbutter.co/">here</a> to learn more about the company.</div>
-      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/butter.gif" width="500" /> 
+      <div width="500" height="300">An app to connect users with thoughtful & curated recommendations from locals. Click <a href="https://discoverbutter.co/">here</a> to learn more about the company.</div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/butter.gif" width="500" /></div>
     </td>
   </tr>
   <tr>
     <td width="500" >
       <h4>SmartyPill</h4>
-      <div width="500">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
-      <p></p>
-      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/smartypill.gif" width="500" height="270" /> 
+      <div width="500" height="300">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/smartypill.gif" width="500" height="270" /></div>
     </td>
     <td width="500" >
       <h4>Asteroids</h4>
-      <div width="500">A Star Wars-flavored clone of the classic game Asteroids, built in Python using the Codeskulptor platform. Click <a href="http://www.codeskulptor.org/#user46_9AsioDfJzI_9.py">here</a> to play! </div>  
-      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/asteroids.gif" width="500" /> 
+      <div width="500" height="300">A Star Wars-flavored clone of the classic game Asteroids, built in Python using the Codeskulptor platform. Click <a href="http://www.codeskulptor.org/#user46_9AsioDfJzI_9.py">here</a> to play! </div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/asteroids.gif" width="500" /></div>
     </td>
   </tr>
 </table>
+
+## Tools & Technologies
 
