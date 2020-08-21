@@ -18,11 +18,11 @@ I am an undergraduate student from <strong>Nuevo Laredo, Mexico</strong>, curren
   <tr>
     <td>
       <h4>HSPH A/V Inventory</h4>
-      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/hsph-av.jpg" width="500" /> 
+      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/hsph-av.gif" width="500" /> 
     </td>
     <td>
       <h4>Butter</h4>
-      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/butter.JPG" width="500" /> 
+      <img src="https://github.com/xyzes/xyzes/blob/master/src/assets/butter.gif" width="500" /> 
     </td>
   </tr>
   <tr>
