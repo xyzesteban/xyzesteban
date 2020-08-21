@@ -30,7 +30,7 @@ I am an undergraduate student from <strong>Nuevo Laredo, Mexico</strong>, curren
     <td width="500" >
       <h4>SmartyPill</h4>
       <div width="500" height="300">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/smartypill.gif" width="500" height="270" /></div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/smartypill.gif" width="500" /></div>
     </td>
     <td width="500" >
       <h4>Asteroids</h4>
