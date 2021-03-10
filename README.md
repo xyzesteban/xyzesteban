@@ -1,7 +1,7 @@
 <!--
 **xyzes/xyzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img src="https://github.com/xyzes/xyzes/raw/master/src/assets/header.gif">
+<img src="https://github.com/xyzes/xyzes/raw/main/src/assets/header.gif">
 
 ## 👋 Introduction
 
@@ -18,24 +18,24 @@ I am an undergraduate student from <strong>Nuevo Laredo, Mexico</strong>, curren
     <td width="500" >
       <h4>HSPH A/V Inventory</h4>
       <div width="500" height="300">A FileMaker database application to keep track of classroom & conference room equipment. Click <a href="https://youtu.be/N5kKAoLdKwo">here</a> for a video demonstration.</div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/hsph-av.gif" width="500" /></div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/hsph-av.gif" width="500" /></div>
     </td>
     <td width="500" >
       <h4>Butter</h4>
       <div width="500" height="300">An app to connect users with thoughtful & curated recommendations from locals. Click <a href="https://discoverbutter.co/">here</a> to learn more about the company.</div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/butter.gif" width="500" /></div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/butter.gif" width="500" /></div>
     </td>
   </tr>
   <tr>
     <td width="500" >
       <h4>SmartyPill</h4>
       <div width="500" height="300">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/smartypill.gif" width="500" /></div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/smartypill.gif" width="500" /></div>
     </td>
     <td width="500" >
       <h4>Asteroids</h4>
       <div width="500" height="300">A Star Wars-flavored clone of the classic 1979 videogame Asteroids, built in Python using the Codeskulptor platform and SimpleGUI library. Click <a href="http://www.codeskulptor.org/#user46_9AsioDfJzI_9.py">here</a> to play! </div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/master/src/assets/asteroids.gif" width="500" /></div>
+      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/asteroids.gif" width="500" /></div>
     </td>
   </tr>
 </table>
