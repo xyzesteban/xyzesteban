@@ -17,12 +17,12 @@ Welcome! I'm a software engineer from <strong>Nuevo Laredo, Mexico</strong>, cur
   <tr>
     <td width="500" >
       <h4>Amadeus</h4>
-      <div width="500" height="300">Telemedicine platform for burn patients that fits right in your pocket, using React Native and AWS</div>
+      <div width="500" height="300">Music composition on iPad/table using a stylus and Optical Music Recognition (OMR)</div>
       <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/AmadeusDemo.gif" width="200" height="300"/></div>
     </td>
     <td width="500" >
       <h4>Messina Digital</h4>
-      <div width="500" height="300">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
+      <div width="500" height="300">A re-creation of Bon Iver + Chris Messina's harmonizer using Max/MSP</div>
       <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/MessinaCompact.png" height="300"/></div>
     </td>
   </tr>
