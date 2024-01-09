@@ -16,26 +16,38 @@ Welcome! I am a software engineer from <strong>Nuevo Laredo, Mexico</strong>, cu
 <table>
   <tr>
     <td width="500" >
-      <h4>HSPH A/V Inventory</h4>
-      <div width="500" height="300">A FileMaker database application to keep track of classroom & conference room equipment. Click <a href="https://youtu.be/N5kKAoLdKwo">here</a> for a video demonstration.</div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/hsph-av.gif" width="500" /></div>
+      <h4>Amadeus</h4>
+      <div width="500" height="300">Telemedicine platform for burn patients that fits right in your pocket, using React Native and AWS</div>
+      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/AmadeusDemo.gif" width="200" height="300"/></div>
     </td>
     <td width="500" >
-      <h4>Butter</h4>
-      <div width="500" height="300">An app to connect users with thoughtful & curated recommendations from locals. Click <a href="https://discoverbutter.co/">here</a> to learn more about the company.</div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/butter.gif" width="500" /></div>
+      <h4>Messina Digital</h4>
+      <div width="500" height="300">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
+      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/MessinaCompact.png" height="300"/></div>
     </td>
   </tr>
   <tr>
     <td width="500" >
+      <h4>BurnCam</h4>
+      <div width="500" height="300">Telemedicine platform for burn patients that fits right in your pocket, using React Native and AWS</div>
+      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/BurncamFinal.png" style="width: 100%; height: 100%; object-fit: cover;"></div>
+    </td>
+    <td width="500" >
       <h4>SmartyPill</h4>
       <div width="500" height="300">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/smartypill.gif" width="500" /></div>
+      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/smartypill.gif" style="width: 100%; height: 100%; object-fit: cover;"/></div>
+    </td>
+  </tr>
+  <tr>
+    <td width="500" >
+      <h4>HSPH A/V Inventory</h4>
+      <div width="500" height="300">An application to keep track of classroom & conference room equipment. Click <a href="https://youtu.be/N5kKAoLdKwo">here</a> for a video demonstration.</div>
+      <div height="300"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/hsph-av.gif" width="500" style={{ objectFit: "cover" }} /></div>
     </td>
     <td width="500" >
       <h4>Asteroids</h4>
       <div width="500" height="300">A Star Wars-flavored clone of the classic 1979 videogame Asteroids, built in Python using the Codeskulptor platform and SimpleGUI library. Click <a href="http://www.codeskulptor.org/#user46_9AsioDfJzI_9.py">here</a> to play! </div>
-      <div><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/asteroids.gif" width="500" /></div>
+      <div height="300"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/asteroids.gif" width="500" style={{ objectFit: "cover" }} /></div>
     </td>
   </tr>
 </table>
