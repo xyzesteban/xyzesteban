@@ -18,7 +18,7 @@ Welcome! I'm a software engineer from <strong>Nuevo Laredo, Mexico</strong>, cur
     <td width="500" >
       <h4>Amadeus</h4>
       <div width="500" height="300">Music composition on iPad/table using a stylus and Optical Music Recognition (OMR)</div>
-      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzes/xyzes/blob/main/src/assets/AmadeusDemo.gif" width="200" height="300"/></div>
+      <div style="height: 300px; overflow: hidden;"><img src="https://private-user-images.githubusercontent.com/42325882/322239042-198493ad-d87b-4d5b-92d0-8ba594e4be81.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwNjIwMzcsIm5iZiI6MTcxMzA2MTczNywicGF0aCI6Ii80MjMyNTg4Mi8zMjIyMzkwNDItMTk4NDkzYWQtZDg3Yi00ZDViLTkyZDAtOGJhNTk0ZTRiZTgxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE0VDAyMjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZmNiYWZjYzczZDJlYWU2MzA4YmY5NzJlNzU3YTI2YjNlOTM3YWI3MDY4NWM4NzdlYzVhMzVmN2ViMjgyNmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TXltwPcMtv9lUNTe6t_Asg8hlUvLYb60L1Bd5OefnGw" height="300"/></div>
     </td>
     <td width="500" >
       <h4>Messina Digital</h4>
