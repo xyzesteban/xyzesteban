@@ -15,39 +15,41 @@ Welcome! I'm a software engineer from <strong>Nuevo Laredo, Mexico</strong>, cur
 
 <table>
   <tr>
-    <td width="500" >
+    <td width="250" >
       <h4>Amadeus</h4>
-      <div width="500" height="300">Music composition on iPad/tablet using a stylus and Optical Music Recognition (OMR)</div>
-      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/AmadeusDemo.gif" height="300"/></div>
+      <p>Music composition on iPad/tablet using a stylus and Optical Music Recognition (OMR)</p>
+      <svg width="400" height="225" viewBox="0 0 400 225">
+        <img src="https://raw.githubusercontent.com/xyzesteban/xyzesteban/main/src/assets/AmadeusDemo.gif" width="400" height="225">
+      </svg>
     </td>
-    <td width="500" >
+    <td width="250" >
       <h4>Messina Digital</h4>
-      <div width="500" height="300">A re-creation of Bon Iver + Chris Messina's harmonizer using Max/MSP</div>
-      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/MessinaCompact.png" height="300"/></div>
+      <p>A re-creation of Bon Iver + Chris Messina's harmonizer using Max/MSP</p>
+      <div><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/MessinaCompact.png" width="400" height="225"/></div>
     </td>
   </tr>
   <tr>
-    <td width="500" >
+    <td width="250" >
       <h4>BurnCam</h4>
-      <div width="500" height="300">Telemedicine platform for burn patients that fits right in your pocket, using React Native and AWS</div>
-      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/BurncamFinal.png" height="300"></div>
+      <p>Telemedicine platform for burn patients that fits right in your pocket, using React Native and AWS</p>
+      <div><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/BurncamFinal.png" width="400" height="225"></div>
     </td>
-    <td width="500" >
+    <td width="250" >
       <h4>SmartyPill</h4>
-      <div width="500" height="300">A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </div>
-      <div style="height: 300px; overflow: hidden;"><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/smartypill.gif" height="300"/></div>
+      <p>A smart pill dispenser conceived by Northeastern alumni Matthew Swenson & developed in collaboration with Generate Product Development. </p>
+      <div><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/smartypill.gif" width="400" height="225"/></div>
     </td>
   </tr>
   <tr>
-    <td width="500" >
+    <td width="250" >
       <h4>HSPH A/V Inventory</h4>
-      <div width="500" height="300">An application to keep track of classroom & conference room equipment. Click <a href="https://youtu.be/N5kKAoLdKwo">here</a> for a video demonstration.</div>
-      <div height="300"><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/hsph-av.gif" width="500" height="300" /></div>
+      <p>An application to keep track of classroom & conference room equipment. Click <a href="https://youtu.be/N5kKAoLdKwo">here</a> for a video demonstration.</div>
+      <div><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/hsph-av.gif" width="400" height="225" /></div>
     </td>
-    <td width="500" >
+    <td width="250" >
       <h4>Asteroids</h4>
-      <div width="500" height="300">A Star Wars-flavored clone of the classic 1979 videogame Asteroids, built in Python using the Codeskulptor platform and SimpleGUI library. Click <a href="http://www.codeskulptor.org/#user46_9AsioDfJzI_9.py">here</a> to play! </div>
-      <div height="300"><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/asteroids.gif" width="500" height="300" /></div>
+      <p>A Star Wars-flavored clone of the classic 1979 videogame Asteroids, built in Python using the Codeskulptor platform and SimpleGUI library. Click <a href="http://www.codeskulptor.org/#user46_9AsioDfJzI_9.py">here</a> to play!</p>
+      <div><img src="https://github.com/xyzesteban/xyzesteban/blob/main/src/assets/asteroids.gif" width="400" height="225" /></div>
     </td>
   </tr>
 </table>
